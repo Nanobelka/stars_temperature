@@ -1,13 +1,13 @@
 # [Stars Temperature](https://nbviewer.jupyter.org/github/Nanobelka/stars_temperature/blob/main/stars_temperature.ipynb)
 ##### Project for [Yandex.Praktikum](https://github.com/Nanobelka/Yandex_Praktikum)
 
-**Входные данные**  
+## **Входные данные**  
 Характеристики изученных 240 звезд.
 
-**Цель**  
+### **Цель**  
 Разработать нейронную сеть для предсказания абсолютной температуры на поверхности звезды.
 
-**Задачи:**  
+#### **Задачи:**  
 - провести исследовательский анализ данных;
 - исправить ошибки в данных;
 - оценить значимость признаков для модели;
