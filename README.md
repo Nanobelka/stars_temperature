@@ -29,14 +29,21 @@ Project for [Yandex.Praktikum](https://github.com/Nanobelka/Yandex_Praktikum)
 ### Примеры визуализаций
 
 EDA
+
 ![star_color](https://github.com/Nanobelka/stars_temperature/blob/main/images/example_1_star_color.png)
+
 ![log_Luminosity_log_Temperature](https://github.com/Nanobelka/stars_temperature/blob/main/images/example_2a_log_Luminosity_log_Temperature.png)
+
 ![log_Radius_log_Temperature](https://github.com/Nanobelka/stars_temperature/blob/main/images/example_2b_log_Radius_log_Temperature.png)
+
 ![correlatins](https://github.com/Nanobelka/stars_temperature/blob/main/images/example_3_correlatins.png)
 
 Mutual info
+
 ![correlatins](https://github.com/Nanobelka/stars_temperature/blob/main/images/example_4_mutual_info.png)
 
 Анализ результата
+
 ![temperature_target_and_prediction](https://github.com/Nanobelka/stars_temperature/blob/main/images/example_5a_temperature_target_and_prediction.png)
+
 ![log_temperature_target_and_prediction](https://github.com/Nanobelka/stars_temperature/blob/main/images/example_5b_log_temperature_target_and_prediction.png)
