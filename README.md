@@ -1,4 +1,5 @@
 # [Stars Temperature](https://nbviewer.jupyter.org/github/Nanobelka/stars_temperature/blob/main/stars_temperature.ipynb)
+# [Stars Temperature](https://nbviewer.jupyter.org/github/Nanobelka/used_cars/blob/main/used_cars.ipynb)
 ##### Project for [Yandex.Praktikum](https://github.com/Nanobelka/Yandex_Praktikum)
 
 **Входные данные**  
